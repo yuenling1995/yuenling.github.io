@@ -1,0 +1,48 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+
+---
+
+# This is Jeff's awesome website
+
+ What if I add some text here ...?
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+## Here's a subsection
+
+And here's some additional text...
+
+```{r}
+rnorm(10)
+```
+
+## Links to other websites
+
+Let's link to useful tools for data science:
+
+* [Google](https://www.google.com/)
+* [p8105](https://www.p8105.com/)
+
+## Local image
+
+Here's the preview image
+
+![](image/halloween.JPG)
+
+
+
+## Link to page within the site
+
+[About me](about.html)
+
+
+
+
+
+
+
