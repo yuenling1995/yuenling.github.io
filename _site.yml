@@ -11,7 +11,7 @@ navbar:
       href: http://github.com/yuenling1995/
 output:
   html_document:
-    theme: cerulean
+    theme: cosmo
     
     
     
